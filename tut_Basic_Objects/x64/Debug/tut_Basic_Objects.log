@@ -1,0 +1,51 @@
+﻿  main.cpp
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(32,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(36,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(41,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(45,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(51,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(61,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(73,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(74,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(75,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(77,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(78,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(79,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(80,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(82,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(83,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(84,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(85,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(87,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(88,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(89,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(90,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(92,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(93,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(94,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(95,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(97,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(98,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(99,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(100,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(102,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(103,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(104,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(105,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(107,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(108,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(109,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\main.cpp(110,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitWindowPosition в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitWindowSize в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitDisplayMode в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutMainLoop в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutPostRedisplay в функции "void __cdecl animateScene(int)" (?animateScene@@YAXH@Z).
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutSwapBuffers в функции "void __cdecl renderScene(void)" (?renderScene@@YAXXZ).
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutTimerFunc в функции "void __cdecl animateScene(int)" (?animateScene@@YAXH@Z).
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutDisplayFunc в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp___glutInitWithExit в функции glutInit_ATEXIT_HACK.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp___glutCreateWindowWithExit в функции glutCreateWindow_ATEXIT_HACK.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl drawTreug(float,float,float)" (?drawTreug@@YAXMMM@Z) в функции "void __cdecl renderScene(void)" (?renderScene@@YAXXZ).
+C:\Users\huawei\Desktop\OpenGL_tutorial\tut_Basic_Objects\lib\freeglut.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\huawei\Desktop\OpenGL_tutorial\x64\Debug\tut_Basic_Objects.exe : fatal error LNK1120: неразрешенных внешних элементов: 11
